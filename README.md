@@ -34,7 +34,7 @@ Aqui você encontra meus estudos, projetos e experimentos.
 ## 🌐 Onde me encontrar
 <div>
   <a href="https://www.instagram.com/jorgelcff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:jlcf04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:jlcf04@gmail.com" aria-label="Enviar e-mail para Jorge Freitas"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jorge0freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
